@@ -1,0 +1,13 @@
+.wrapper
+{
+	border: 1px solid black;
+	height: 200px;
+}
+
+.item_box
+{
+	height: 100px;
+	display: inline-block;
+	background: red;
+	width: 30%;
+}
